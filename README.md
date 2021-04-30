@@ -15,6 +15,9 @@ Criando workitens e backlog https://drive.google.com/file/d/127Hmu9JrSrOwH-wgcdp
 E aqui: https://drive.google.com/file/d/1Y2PLQ_lAiDLHcoaQNgKcl4dmEYNxELmj/view?usp=sharing
 #
 Personalizando o template para Agile no Projeto DevOps https://drive.google.com/file/d/1YPCZQlE50QFASaPfVMRQE8rEoWyQt_wt/view?usp=sharing
+#
+Personalizando Dashboards https://drive.google.com/file/d/1fumr401X8zeJGHXVVJeDeKLKnsDim5Sc/view?usp=sharing
+
 
 
 
