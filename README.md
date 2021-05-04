@@ -17,6 +17,14 @@ E aqui: https://drive.google.com/file/d/1Y2PLQ_lAiDLHcoaQNgKcl4dmEYNxELmj/view?u
 Personalizando o template para Agile no Projeto DevOps https://drive.google.com/file/d/1YPCZQlE50QFASaPfVMRQE8rEoWyQt_wt/view?usp=sharing
 #
 Personalizando Dashboards https://drive.google.com/file/d/1fumr401X8zeJGHXVVJeDeKLKnsDim5Sc/view?usp=sharing
+#
+Criando VM de Windows 10 e Windows Server 2019 no Virtual Box para praticar aprendizado 
+https://drive.google.com/file/d/1iTteD5e69JB7rJ6_vVSc3qaGU6Y_pk8x/view?usp=sharing
+
+#
+Instalando Active Directory no Windows Server 2019
+https://drive.google.com/file/d/1900rvP022cnV8XM1Bt1tuixSNayOMNc6/view?usp=sharing
+
 
 
 
