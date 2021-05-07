@@ -20,10 +20,13 @@ Personalizando Dashboards https://drive.google.com/file/d/1fumr401X8zeJGHXVVJeDe
 #
 Criando VM de Windows 10 e Windows Server 2019 no Virtual Box para praticar aprendizado 
 https://drive.google.com/file/d/1iTteD5e69JB7rJ6_vVSc3qaGU6Y_pk8x/view?usp=sharing
-
 #
 Instalando Active Directory no Windows Server 2019
 https://drive.google.com/file/d/1900rvP022cnV8XM1Bt1tuixSNayOMNc6/view?usp=sharing
+#
+Instalando DNS no Windows Server 2019
+https://drive.google.com/file/d/1KaskCAgC2KqiN0y7qEeU7GlhYwQtCX7Q/view?usp=sharing
+
 
 
 
